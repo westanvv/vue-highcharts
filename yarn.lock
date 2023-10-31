@@ -417,6 +417,11 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.52.0.tgz#78fe5f117840f69dc4a353adf9b9cd926353378c"
   integrity sha512-mjZVbpaeMZludF2fsWLD0Z9gCref1Tk4i9+wddjRvpUNqqcndPkBD09N/Mapey0b3jaXbLm2kICwFv2E64QinA==
 
+"@highcharts/map-collection@2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@highcharts/map-collection/-/map-collection-2.0.1.tgz#c5eac79b9711c75248d4219c53be9b6a07704c9d"
+  integrity sha512-eC5sEMC8LoCVMCz4BKuREcS3wVBBSFaRClJ7/vVZxd4nJe0VEykSFfQJwh8lpY4oJDy46iYrFzy3fwsTo9hmqg==
+
 "@humanwhocodes/config-array@^0.11.13":
   version "0.11.13"
   resolved "https://registry.yarnpkg.com/@humanwhocodes/config-array/-/config-array-0.11.13.tgz#075dc9684f40a531d9b26b0822153c1e832ee297"
@@ -1455,6 +1460,11 @@ highcharts-vue@^1.4.3:
   version "1.4.3"
   resolved "https://registry.yarnpkg.com/highcharts-vue/-/highcharts-vue-1.4.3.tgz#8cb7452c005282ee70f237021af93725d1c9a4f4"
   integrity sha512-qIy9EFuLIgOw+reNkTvu0pvMBcSE0BAPtONAqZoEl0qaAIpGxiyXqhRNPDufWieSC0YlybpCznxE8EK19Kcg+A==
+
+highcharts@^11.2.0:
+  version "11.2.0"
+  resolved "https://registry.yarnpkg.com/highcharts/-/highcharts-11.2.0.tgz#32ddc885b1c7a7d438df30c6d751c28991b16616"
+  integrity sha512-9i650YK7ZBA1Mgtr3avMkLVCAI45RQvYnwi+eHsdFSaBGuQN6BHoa4j4lMkSJLv0V4LISTK1z7J7G82Lzd7zwg==
 
 hosted-git-info@^7.0.0:
   version "7.0.1"

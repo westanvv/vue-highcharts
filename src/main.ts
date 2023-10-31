@@ -4,6 +4,8 @@ import { createApp } from 'vue'
 import App from './App.vue'
 
 import router from './router'
+
+// @ts-ignore
 import Highcharts from "highcharts";
 import MapsModule from "highcharts/modules/map";
 import StockModule from "highcharts/modules/stock";
@@ -21,6 +23,7 @@ const app = createApp(App)
 app.use(router)
 
 // Use the HighchartsVue plugin, register <highcharts> component
+// @ts-ignore
 app.use(HighchartsVue);
 
 app.mount('#app')
